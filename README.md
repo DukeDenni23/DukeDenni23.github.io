@@ -1,4 +1,8 @@
 # Personal Portfolio.github.io
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Polytechnic_University_of_the_Philippines_official_logo.svg/1200px-Polytechnic_University_of_the_Philippines_official_logo.svg.png" height="150" alt="PUP Official Logo">
+</p>
 <h1>Hi, I'm Mj! <br/><a href="https://Personal Portfolio.github.io">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
 
 ## 🚀 Professional Experience
