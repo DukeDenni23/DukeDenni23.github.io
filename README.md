@@ -1,4 +1,4 @@
-# Personal Portfolio.github.io
+# Personal Portfolio
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Polytechnic_University_of_the_Philippines_official_logo.svg/1200px-Polytechnic_University_of_the_Philippines_official_logo.svg.png" height="150" alt="PUP Official Logo">
