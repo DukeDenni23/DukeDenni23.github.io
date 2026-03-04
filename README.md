@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Polytechnic_University_of_the_Philippines_official_logo.svg/1200px-Polytechnic_University_of_the_Philippines_official_logo.svg.png" height="150" alt="PUP Official Logo">
 </p>
-<h1>Hi, I'm Mj! <br/><a href="https://Personal Portfolio.github.io">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
+<h1>Hi, I'm Mj Limosinero! <br/><a href="https://Personal Portfolio">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
 
 ## 🚀 Professional Experience
 
@@ -25,6 +25,58 @@
 * **Digital Strategy:** Authored "Digital Literacy Improvement" reports to modernize government services and bridge the digital divide.
 
 ---
+## 📂 Featured Projects & Field Experience
+
+### **1. Nationwide Enterprise Software & App Deployment**
+**Role:** Lead IT Technical Engineer | Broadcast & AV/IT Engineer | Training & Demo Lead  
+**Clients:** National University (All Campuses), Ateneo de Davao, LPU Davao  
+**Focus:** Microsoft Education & Canva for Education Rollouts
+
+* **Live Demonstrations & Evangelism:** Led high-stakes live demonstrations of the software applications for school administrators, faculty, and stakeholders, showcasing core features and workflow improvements.
+* **Technical Training:** Conducted comprehensive hands-on training sessions for end-users and local IT staff to ensure smooth adoption and long-term self-sufficiency.
+* **Broadcast & AV/IT Engineering:** Managed professional-grade streaming and AV infrastructure to facilitate these nationwide training sessions and live launches.
+* **Network Tailoring:** Configured school networks specifically to support high-bandwidth requirements for Microsoft 365 and Canva platforms.
+* **Client Advisory:** Provided hardware/software recommendations that directly increased client satisfaction and met project KPIs.
+* **Documentation:** Authored all client-facing training manuals, transmittal documents, and technical deployment guides.
+
+---
+
+### **2. BAi - Brgy. Tagapo Maternal & Child Health System**
+**Role:** Project Manager | Lead Business Analyst | Lead Quality Assurance  
+**Tech:** Generative AI (LLM), Web-based Analytics, Health Data Management
+
+* **Documentation Leadership:** Directed and authored the complete **Technical Documentation (Chapters 1–5)**, detailing the logic for AI-driven nutritional monitoring.
+* **Quality Assurance:** Led the validation of AI outputs to ensure clinical accuracy for maternal and child health recommendations.
+* **Strategic Impact:** Transformed manual record-keeping into a digital, AI-enhanced dashboard for local health workers.
+
+---
+
+### **3. SeQRityGate - IoT-Based Access Control System**
+**Role:** Project Manager | Lead Business Analyst | QA Specialist  
+**Awards:** 🏆 **Best in Thesis** | **Tech:** Arduino, QR Code, PHP (BCrypt)
+
+* **Documentation Leadership:** Spearheaded the **Thesis Manuscript (Chapters 1–5)**, covering problem analysis, hardware specs, and security protocols.
+* **Security & QA:** Conducted penetration testing (SQL injection) and verified secure 30-minute session handling.
+* **Hardware Coordination:** Managed the integration between the web application and Arduino-powered physical gate barriers.
+
+---
+
+### **4. PUPSRC-SMS Clinic Module**
+**Role:** Project Manager | Lead Business Analyst | QA Specialist  
+**Tech:** Web Management, PDF Generation, Digital Healthcare Records
+
+* **Documentation Leadership:** Lead author of the **Functional Specification Document (FSD)**, focusing on automated clearance and referral logic.
+* **QA & Validation:** Performed end-to-end testing of the records search engine and validated medical data inputs for system integrity.
+
+---
+
+### 📊 Professional Skills Summary
+| Skill | Implementation in Projects |
+| :--- | :--- |
+| **Documentation** | **Lead Author for Chapters 1-5** for all major Capstone and Thesis projects. |
+| **Demos & Training** | Conducted live software walkthroughs and technical training for nationwide clients. |
+| **AV/IT & Streaming** | Managed broadcast signal flows and live-stream setups for enterprise launches. |
+| **Network & QA** | Custom network tailoring and security validation (SQLi prevention, AI accuracy). |
 
 ### 🎓 Education
 * **Bachelor of Science in Information Technology** | Polytechnic University of the Philippines
