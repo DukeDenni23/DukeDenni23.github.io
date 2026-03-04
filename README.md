@@ -37,23 +37,43 @@
 
 ---
 
-### 🏆 Certifications & Achievements
+## 🏆 Certifications & Technical Credentials
 
+### 🌐 Network & Hardware Infrastructure
 | Certification | Issuing Organization | Date |
 | :--- | :--- | :--- |
-| **ASUS Technical Training** | ASUS | May 9, 2025 |
-| **Sophos Firewall Certified Engineer v21.0** | Sophos | June 8, 2025 |
-| **AI Fundamentals** | Cisco / IBM SkillsBuild | Feb 16, 2026 |
-| **Using Computer and Mobile Devices** | Cisco Networking Academy | Feb 12, 2026 |
-| **English for IT 1 & 2** | Cisco / OpenEDG | Feb 12, 2026 |
-| **Introduction to Data Science** | Cisco / DICT-ITU | Feb 11, 2026 |
-| **Introduction to Cybersecurity** | Cisco / DICT-ITU | Feb 10, 2026 |
-| **Apply AI: Analyze Customer Reviews** | Cisco / DICT-ITU | Feb 10, 2026 |
-| **Introduction to IoT** | Cisco / DICT-ITU | Feb 9, 2026 |
-| **Computer Hardware Basics** | Cisco / DICT-ITU | Feb 5, 2026 |
-| **Microsoft Digital Literacy** | Microsoft (via DICT) | Feb 26, 2026 |
+| **Cisco Certified Networking Technician** | Cisco | Nov 2025 |
+| **Cisco Certified IT Support Technician** | Cisco | Oct 2025 |
+| **Computer System Servicing NC II** | TESDA | Feb 2025 |
+| **ASUS Certified Technical Support** | ASUS | May 2025 |
+| **Introduction to IoT** | Cisco | Feb 2026 |
+| **Computer Hardware Basics** | Cisco | Feb 2026 |
 
----
+### 🤖 Artificial Intelligence & Data Science
+| Certification | Issuing Organization | Date |
+| :--- | :--- | :--- |
+| **Data Annotation for BPO Professionals** | UP Open University | March 2026 |
+| **Artificial Intelligence Fundamentals** | IBM SkillsBuild | Feb 2026 |
+| **AI Fundamentals** | Cisco | Feb 2026 |
+| **Introduction to Modern AI** | Cisco | Feb 2026 |
+| **Introduction to Data Science** | Cisco | Feb 2026 |
+| **Apply AI: Analyze Customer Reviews** | Cisco | Feb 2026 |
+
+### 🛡️ Cybersecurity & Systems Engineering
+| Certification | Issuing Organization | Date |
+| :--- | :--- | :--- |
+| **Sophos Certified Engineer** | Sophos | May 2025 |
+| **Introduction to Cybersecurity** | Cisco | Feb 2026 |
+| **WIFI 101 & Digital Thumbprint** | TESDA Open | March 2026 |
+| **Digital Safety & Security Awareness** | Cisco | Feb 2026 |
+
+### 📞 IT Support & Communication
+| Certification | Issuing Organization | Date |
+| :--- | :--- | :--- |
+| **IT Customer Support Basics** | Cisco | Feb 2026 |
+| **English for IT (Series 1 & 2)** | Cisco | Feb 2026 |
+| **Microsoft Digital Literacy** | TESDA | March 2025 |
+| **Digital Awareness** | Cisco | Feb 2026 |
 
 <h2> 🤳 Connect with me:</h2>
 
