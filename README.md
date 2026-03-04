@@ -1,29 +1,59 @@
 # Personal Portfolio.github.io
-<h1>Hi, I'm Mj! <br/><a href="https://Personal Portfolio.github.io">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/c/joshmadakor](https://www.youtube.com/@DukeMnl)">PUP Alumni</a></h1>
+<h1>Hi, I'm Mj! <br/><a href="https://Personal Portfolio.github.io">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
 
+## 🚀 Professional Experience
 
-### 🎓 Certifications & Achievements
+### **IT Specialist** | Agile Techfrontier Corporation
+*June 2025 – June 2026 | Biñan City, Laguna*
+* **Infrastructure & Support:** Managed end-to-end hardware lifecycles, network configurations (routers/switches), and OS deployment across Windows and Linux.
+* **Operations:** Handled high-volume CRM ticketing and virtual helpdesk support with a focus on rapid issue resolution and system optimization.
+* **Post-Sales:** Managed RMA coordination, warranty compliance, and technical walkthroughs to ensure client success.
+
+### **IT Technical Engineer** | Audentes Technologies Inc.
+*April 2025 – June 2025 | Project Management & System Integration*
+* **Large-Scale Integration:** Spearheaded nationwide IT rollouts for major institutions (NU, Ateneo de Davao, LPU) including Microsoft & Canva for Education launches.
+* **Systems Admin:** Administered enterprise hardware maintenance and OS deployment using CLI and advanced diagnostic tools.
+* **QA & Compliance:** Conducted rigorous system stability testing and managed technical documentation for nationwide campus rollouts.
+
+### **IT Head Technical Support** | Barangay Dila
+*June 2024 – November 2024 | Santa Rosa City, Laguna*
+* **Leadership:** Served as Head Technical Consultant, overseeing all IT infrastructure and Network Management Systems (NMS) for the local government.
+* **Digital Strategy:** Authored "Digital Literacy Improvement" reports to modernize government services and bridge the digital divide.
+
+---
+
+### 🎓 Education
+* **Bachelor of Science in Information Technology** | Polytechnic University of the Philippines
+    * *Awards:* Best in Thesis (System Analysis Design), Best in Project Management, Best in Software QA, Dean’s Lister.
+* **Humanities and Social Sciences (HUMSS)** | Biñan Integrated National Highschool
+    * *Graduated with High Honors*
+
+---
+
+### 🛠 Skills & Tools
+* **Technical:** System Diagnostics, Network Configuration (Cabling/Switching), hardware Assembly/Disassembly, OS Deployment (Ubuntu/Linux/Windows).
+* **Security & AI:** Sophos Firewall Management, Cybersecurity Threat ID, Generative AI & Prompt Engineering, Data Annotation.
+* **Software:** Microsoft 365 & Google Workspace Administration, CRM Systems, Workflow Automation.
+
+---
+
+### 🏆 Certifications & Achievements
 
 | Certification | Issuing Organization | Date |
 | :--- | :--- | :--- |
-| **ASUS Technical Training** | [cite_start]ASUS [cite: 1, 23, 34] | [cite_start]May 9, 2025 [cite: 1, 31] |
-| **Sophos Firewall Certified Engineer v21.0 (ET80)** | [cite_start]Sophos [cite: 1, 39, 43] | [cite_start]June 8, 2025 [cite: 1, 40] |
-| **AI Fundamentals with IBM SkillsBuild** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 50, 51] | [cite_start]Feb 16, 2026 [cite: 1, 55] |
-| **Using Computer and Mobile Devices** | [cite_start]Cisco Networking Academy [cite: 1, 66] | [cite_start]Feb 12, 2026 [cite: 1, 69] |
-| **English for IT 1 & 2** | [cite_start]Cisco Networking Academy / OpenEDG [cite: 1, 81, 96] | [cite_start]Feb 12, 2026 [cite: 1, 84, 99] |
-| **Introduction to Data Science** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 108, 109] | [cite_start]Feb 11, 2026 [cite: 1, 111] |
-| **Introduction to Cybersecurity** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 133, 134] | [cite_start]Feb 10, 2026 [cite: 1, 135] |
-| **Apply AI: Analyze Customer Reviews** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 120, 121] | [cite_start]Feb 10, 2026 [cite: 1, 123] |
-| **Apply AI: Update Your Resume** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 145, 146] | [cite_start]Feb 10, 2026 [cite: 1, 147] |
-| **Introduction to IoT and Digital Transformation** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 149] | [cite_start]Feb 9, 2026 [cite: 1, 150] |
-| **Digital Safety and Security Awareness** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 151] | [cite_start]Feb 5, 2026 [cite: 1, 152] |
-| **Computer Hardware Basics** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 153] | [cite_start]Feb 5, 2026 [cite: 1, 154] |
-| **Digital Awareness** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 155] | [cite_start]Feb 5, 2026 [cite: 1, 156] |
-| **IT Customer Support Basics** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 157] | [cite_start]Feb 4, 2026 [cite: 1, 158] |
-| **Introduction to Modern AI** | [cite_start]Cisco Networking Academy / DICT-ITU [cite: 1, 20] | [cite_start]Feb 4, 2026 [cite: 1, 20] |
-| **Microsoft Digital Literacy** | [cite_start]Microsoft (via DICT) [cite: 1, 21] | [cite_start]Feb 26, 2026 [cite: 1, 21] |
-| **Setting Up Computer Networks** | [cite_start]DICT / TCPDF [cite: 1, 21] | [cite_start]Feb 26, 2026 [cite: 1, 21] |
-| **Introduction to CSS** | [cite_start]DICT / TCPDF [cite: 1, 22] | [cite_start]Feb 26, 2026 [cite: 1, 22] |
+| **ASUS Technical Training** | ASUS | May 9, 2025 |
+| **Sophos Firewall Certified Engineer v21.0** | Sophos | June 8, 2025 |
+| **AI Fundamentals** | Cisco / IBM SkillsBuild | Feb 16, 2026 |
+| **Using Computer and Mobile Devices** | Cisco Networking Academy | Feb 12, 2026 |
+| **English for IT 1 & 2** | Cisco / OpenEDG | Feb 12, 2026 |
+| **Introduction to Data Science** | Cisco / DICT-ITU | Feb 11, 2026 |
+| **Introduction to Cybersecurity** | Cisco / DICT-ITU | Feb 10, 2026 |
+| **Apply AI: Analyze Customer Reviews** | Cisco / DICT-ITU | Feb 10, 2026 |
+| **Introduction to IoT** | Cisco / DICT-ITU | Feb 9, 2026 |
+| **Computer Hardware Basics** | Cisco / DICT-ITU | Feb 5, 2026 |
+| **Microsoft Digital Literacy** | Microsoft (via DICT) | Feb 26, 2026 |
+
+---
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,9 +63,8 @@
 
 [youtube]: https://www.youtube.com/@DukeMnl
 [instagram]: https://www.instagram.com/wantedmj
-[linkedin]: www.linkedin.com/in/mj-limosinero
+[linkedin]: https://www.linkedin.com/in/mj-limosinero
 
 
-Here are some ideas to get you started:
 
 
