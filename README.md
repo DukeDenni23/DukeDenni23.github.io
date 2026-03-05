@@ -143,6 +143,6 @@
 [linkedin]: https://www.linkedin.com/in/mj-limosinero
 [credly]: https://www.credly.com/users/mj-limosinero
 
-
+For inquries: matthewlimosinero@gmail.com
 
 
