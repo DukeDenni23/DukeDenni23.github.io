@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Polytechnic_University_of_the_Philippines_official_logo.svg/1200px-Polytechnic_University_of_the_Philippines_official_logo.svg.png](https://www.pup.edu.ph/about/images/PUPLogo.png)" height="150" alt="PUP Official Logo">
+  <img src="(https://github.com/DukeDenni23/DukeDenni23.github.io/blob/main/PUPLogo.png?raw=true)" height="150" alt="PUP Official Logo">
 </p>
 <h1>Hi, I'm Mj Limosinero! <br/><a href="https://Personal Portfolio">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
 
