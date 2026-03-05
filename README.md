@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 <p align="center">
-  <img src="(https://github.com/DukeDenni23/DukeDenni23.github.io/blob/main/PUPLogo.png?raw=true)" height="150" alt="PUP Official Logo">
+  <img src="https://github.com/DukeDenni23/DukeDenni23.github.io/blob/main/PUPLogo.png?raw=true" height="150" alt="PUP Official Logo">
 </p>
 <h1>Hi, I'm Mj Limosinero! <br/><a href="https://Personal Portfolio">IT Specialist</a>, <a href="www.linkedin.com/in/mj-limosinero">IT Professional</a>, <a href="https://www.youtube.com/@DukeMnl">PUP Alumni</a></h1>
 
@@ -141,7 +141,7 @@
 [youtube]: https://www.youtube.com/@DukeMnl
 [instagram]: https://www.instagram.com/wantedmj
 [linkedin]: https://www.linkedin.com/in/mj-limosinero
-[creddly]: https://www.credly.com/users/mj-limosinero
+[credly]: https://www.credly.com/users/mj-limosinero
 
 
 
