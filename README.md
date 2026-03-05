@@ -136,10 +136,12 @@
 [<img align="left" alt="Mj Limosinero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mj Limosinero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mj Limosinero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mj Limosinero | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/credly.svg" />][credly]
 
 [youtube]: https://www.youtube.com/@DukeMnl
 [instagram]: https://www.instagram.com/wantedmj
 [linkedin]: https://www.linkedin.com/in/mj-limosinero
+[creddly]: https://www.credly.com/users/mj-limosinero
 
 
 
